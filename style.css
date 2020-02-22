@@ -1,0 +1,9 @@
+body {background: #000000; color: #00ff00; font: 12pt monospace;}
+input {border: 0; margin: 0px 3px; padding: 3px; background: #000000; color: #00ff00; font: 12pt monospace;}
+button {border: 0; margin: 0px 3px; padding: 3px; background: #000000; color: #00ff00; font: 12pt monospace;}
+.notPlayed {border: 1px dashed #c0c0c0; margin: 6px 0px; padding: 6px; background: #808080;}
+.wasPlayed {border: 1px dashed #c0c0c0; margin: 6px 0px; padding: 6px; background: #000000;}
+.loser {background: #800000;}
+.winner {background: #008000;}
+.totalwinner {background: #00ff00; color: #808000;}
+.summary {border: 1px dashed #c0c0c0; margin: 6px 0px; padding: 6px; background: #008000;}
